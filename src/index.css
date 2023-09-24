@@ -1,3 +1,17 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+.borderbgred
+{
+    border: 1px solid red;
+}
+.borderbgblue
+{
+    border: 1px solid blue;
+}
+.borderbggreen
+{
+    border: 1px solid green;
+}
