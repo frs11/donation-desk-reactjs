@@ -1,0 +1,9 @@
+.headerbg
+{
+    background:url('https://i.ibb.co/NF0tf8z/Rectangle-4281.png') , linear-gradient(#ffffffe5,#ffffffe7);
+        background-blend-mode: overlay;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+        border: 1px solid white;
+}
