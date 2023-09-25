@@ -1,0 +1,135 @@
+[
+    {
+      "id": "1",
+      "banner": "https://i.ibb.co/QXd3DJ1/Education.png",
+      "title": "Support for Students",
+      "category": "Education",
+      "category_bg": "bg-red-200",
+      "card_bg": "bg-red-100",
+      "text_color": "red-500",
+      "description": "Help bright young minds achieve their dreams by providing educational resources and scholarships. Your contribution will make a difference in their lives.",
+      "price": 25
+    },
+    {
+      "id": "2",
+      "banner": "https://i.ibb.co/HXwrymM/Food.png",
+      "title": "Food Bank Support",
+      "category": "Food",
+      "category_bg": "bg-orange-200",
+      "card_bg": "bg-orange-100",
+      "text_color": "orange-500",
+      "description": "Provide essential food supplies to families in need, ensuring they have nutritious meals on their table for a week.",
+      "price": 30
+    },
+    {
+      "id": "3",
+      "banner": "https://i.ibb.co/Hpt2w0g/Clothing.png",
+      "title": "Warm Clothing Drive",
+      "category": "Clothing",
+      "category_bg": "bg-lime-200",
+      "card_bg": "bg-lime-100",
+      "text_color": "lime-600",
+      "description": "Donate new and gently used clothing items to help those in need stay warm during the winter season.",
+      "price": 10
+    },
+    {
+      "id": "4",
+      "banner": "https://i.ibb.co/0B0QmLC/Health.png",
+      "title": "Vaccination Campaign",
+      "category": "Health",
+      "category_bg": "bg-blue-200",
+      "card_bg": "bg-blue-100",
+      "text_color": "blue-500",
+      "description": "Support local health clinics by providing essential medical supplies to ensure quality healthcare for all.",
+      "price": 40
+    },
+    {
+      "id": "5",
+      "banner": "https://i.ibb.co/HXwrymM/Food.png",
+      "title": "Food Bank Support",
+      "category": "Food",
+      "category_bg": "bg-orange-200",
+      "card_bg": "bg-orange-100",
+      "text_color": "orange-500",
+      "description": "Help stock our local food bank shelves with non-perishable items to support struggling individuals and families.",
+      "price": 10
+    },
+    {
+      "id": "6",
+      "banner": "https://i.ibb.co/0B0QmLC/Health.png",
+      "title": "Vaccination Campaign",
+      "category": "Health",
+      "category_bg": "bg-blue-200",
+      "card_bg": "bg-blue-100",
+      "text_color": "blue-500",
+      "description": "Contribute to a vaccination campaign to protect vulnerable populations from preventable diseases.",
+      "price": 25
+    },
+    {
+      "id": "7",
+      "banner": "https://i.ibb.co/QXd3DJ1/Education.png",
+      "title": "Support for Students",
+      "category": "Education",
+      "category_bg": "bg-red-200",
+      "card_bg": "bg-red-100",
+      "text_color": "red-500",
+      "description": "Empower students with online learning tools and resources, bridging the digital divide and enhancing access to quality education.",
+      "price": 20
+    },
+    {
+      "id": "8",
+      "banner": "https://i.ibb.co/Hpt2w0g/Clothing.png",
+      "title": "Warm Clothing Drive",
+      "category": "Clothing",
+      "category_bg": "bg-lime-200",
+      "card_bg": "bg-lime-100",
+      "text_color": "lime-600",
+      "description": "Equip underprivileged children with new school outfits, boosting their confidence as they start the school year.",
+      "price": 20
+    },
+    {
+      "id": "9",
+      "banner": "https://i.ibb.co/0B0QmLC/Health.png",
+      "title": "Vaccination Campaign",
+      "category": "Health",
+      "category_bg": "bg-blue-200",
+      "card_bg": "bg-blue-100",
+      "text_color": "blue-500",
+      "description": "Fund programs that provide mental health support and counseling for individuals in crisis.",
+      "price": 35
+    },
+    {
+      "id": "10",
+      "banner": "https://i.ibb.co/HXwrymM/Food.png",
+      "title": "Meals for Homeless",
+      "category": "Food",
+      "category_bg": "bg-orange-200",
+      "card_bg": "bg-orange-100",
+      "text_color": "orange-500",
+      "description": "Contribute to providing warm meals and essentials to homeless individuals in our community.",
+      "price": 15
+    },
+    {
+      "id": "11",
+      "banner": "https://i.ibb.co/Hpt2w0g/Clothing.png",
+      "title": "Job Interview Attire",
+      "category": "Clothing",
+      "category_bg": "bg-lime-200",
+      "card_bg": "bg-lime-100",
+      "text_color": "lime-600",
+      "description": "Provide professional clothing for job seekers to help them make a strong impression during interviews.",
+      "price": 15
+    },
+    {
+      "id": "12",
+      "banner": "https://i.ibb.co/QXd3DJ1/Education.png",
+      "title": "Support for Students",
+      "category": "Education",
+      "category_bg": "bg-red-200",
+      "card_bg": "bg-red-100",
+      "text_color": "red-500",
+      "description": "Support the expansion of our community library, promoting literacy and providing a safe space for learning for all ages.",
+      "price": 50
+    }
+  ]
+  

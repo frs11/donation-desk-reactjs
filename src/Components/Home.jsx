@@ -1,5 +1,10 @@
+// import { useLoaderData } from "react-router-dom";
+import Cards from "./Card/Cards";
 import "./Style.css"
 const Home = () => {
+
+  // const cardsData = useLoaderData();
+  
   return (
     <div>
           <div className="headerbg w-full">
@@ -13,7 +18,7 @@ const Home = () => {
           </div>
 
           <div>
-            
+            <Cards></Cards>
           </div>
 
     </div>
