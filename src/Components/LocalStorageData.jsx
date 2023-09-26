@@ -9,7 +9,7 @@ const LocalStorageData = ({locallyStoredData}) => {
 
     return (
         <div>
-            <div className="w-10/12 lg:max-w-screen-2xl mx-auto my-20 grid grid-cols-1 lg:grid-cols-2 gap-6">
+            <div className="w-11/12 lg:max-w-screen-2xl mx-auto my-20 grid grid-cols-1 lg:grid-cols-2 gap-4">
             {
                 locallyStoredData.slice(0, numberOfCards).map((singleData) => <DonatedCardLayout key={singleData.id} singleData={singleData}></DonatedCardLayout>)
             }

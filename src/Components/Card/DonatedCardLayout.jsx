@@ -20,17 +20,17 @@ const DonatedCardLayout = ({singleData}) => {
     }
 
     return (
-        <div style={cardBackground} className='flex rounded-lg'>
-            <div className='w-72'>
+        <div style={cardBackground} className='block md:flex lg:flex rounded-lg'>
+            <div className='lg:w-72'>
                 <img src={banner} className='w-full' alt="" />
             </div>
-            <div className='flex items-center ml-6'> 
+            <div className='flex items-center ml-6 lg:ml-4'> 
                 <div>
-                <p style={categoryStyle} className='w-max px-2 py-px rounded-sm'>{category}</p>
+                <p style={categoryStyle} className='w-max px-2 mt-2 md:mt-0 lg:mt-0 py-px rounded-sm'>{category}</p>
                 <h1 className='font-semibold my-1'>{title}</h1>
                 <p style={textStyle} className='font-semibold'>${price}.00</p>
                 <Link to={`/carddetails/${id}`}>
-                    <button style={buttonStyle} className='py-2 px-5 mt-2 font-semibold rounded-md'>View Details</button>
+                    <button style={buttonStyle} className='py-2 px-4 mt-2 font-semibold rounded-md'>View Details</button>
                 </Link>
                 </div>
             </div>
