@@ -1,9 +1,13 @@
+// import { createContext, useState } from "react";
 import { useState } from "react";
 import { NavLink, Outlet } from "react-router-dom";
 
-const Layout = () => {
-    const [open, setOpen] = useState(false)
+// export const CardContext = createContext();
 
+const Layout = () => {
+
+    const [open, setOpen] = useState(false)
+  
     return (
       <div>
 
@@ -55,11 +59,12 @@ const Layout = () => {
           </div>
         </div>
         </div>
+      </div>  
+          
+          <div>
+            <Outlet></Outlet>
+          </div>
 
-      </div>        
-        <div>
-          <Outlet></Outlet>
-        </div>
       </div>
     );
   

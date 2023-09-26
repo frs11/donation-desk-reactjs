@@ -4,132 +4,132 @@
       "banner": "https://i.ibb.co/QXd3DJ1/Education.png",
       "title": "Support for Students",
       "category": "Education",
-      "category_bg": "bg-red-200",
-      "card_bg": "bg-red-100",
-      "text_color": "red-500",
-      "description": "Help bright young minds achieve their dreams by providing educational resources and scholarships. Your contribution will make a difference in their lives.",
-      "price": 25
+      "category_bg": "#FF444A33",
+      "card_bg": "#FF444A26",
+      "text_color": "#FF444A",
+      "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+      "price": 250
     },
     {
       "id": "2",
       "banner": "https://i.ibb.co/HXwrymM/Food.png",
       "title": "Food Bank Support",
       "category": "Food",
-      "category_bg": "bg-orange-200",
-      "card_bg": "bg-orange-100",
-      "text_color": "orange-500",
-      "description": "Provide essential food supplies to families in need, ensuring they have nutritious meals on their table for a week.",
-      "price": 30
+      "category_bg": "#F8714733",
+      "card_bg": "#F8714726",
+      "text_color": "#F87147",
+      "description": "Good food is the cornerstone of a healthy and fulfilling life. Beyond simply nourishing our bodies, it shapes our overall well-being. Nutrition-rich diets support physical health, bolstering our immune systems, and reducing the risk of chronic illnesses. Moreover, good food is a source of vitality and energy, enabling us to lead active lives. Beyond the physical, it also nurtures mental health, contributing to cognitive clarity and emotional stability. Food is a unifying force, bringing communities and cultures together around shared meals. In the broader context, sustainable and responsible food choices have a positive impact on the environment, reducing our carbon footprint. In essence, good food is not just sustenance; it's a cornerstone of health, happiness, and a sustainable future.",
+      "price": 300
     },
     {
       "id": "3",
       "banner": "https://i.ibb.co/Hpt2w0g/Clothing.png",
       "title": "Warm Clothing Drive",
       "category": "Clothing",
-      "category_bg": "bg-lime-200",
-      "card_bg": "bg-lime-100",
-      "text_color": "lime-600",
-      "description": "Donate new and gently used clothing items to help those in need stay warm during the winter season.",
-      "price": 10
+      "category_bg": "#79C23F33",
+      "card_bg": "#79C23F26",
+      "text_color": "#79C23F",
+      "description": "Clothing is far more than a mere covering for our bodies; it serves as a reflection of our identity, culture, and social standing. The importance of clothing transcends mere aesthetics; it is a means of self-expression, communication, and empowerment. Adequate clothing provides protection from the elements, ensuring our physical well-being. Moreover, it boosts our confidence and self-esteem, influencing how we perceive ourselves and how others perceive us. In many societies, clothing represents tradition and heritage, connecting generations. Additionally, it plays a pivotal role in the job market, where appropriate attire can influence career opportunities. In essence, clothing is not just a matter of style; it's a fundamental aspect of our daily lives, impacting our comfort, confidence, and cultural heritage.",
+      "price": 100
     },
     {
       "id": "4",
       "banner": "https://i.ibb.co/0B0QmLC/Health.png",
       "title": "Vaccination Campaign",
       "category": "Health",
-      "category_bg": "bg-blue-200",
-      "card_bg": "bg-blue-100",
-      "text_color": "blue-500",
-      "description": "Support local health clinics by providing essential medical supplies to ensure quality healthcare for all.",
-      "price": 40
+      "category_bg": "#0052FF33",
+      "card_bg": "#0052FF26",
+      "text_color": "#0052FF",
+      "description": "Good health is the bedrock upon which thriving communities are built. It encompasses physical, mental, and social well-being, and its significance in the Health category of philanthropy cannot be overstated. A community's vitality and productivity hinge on the health of its individuals. When healthcare is accessible and robust, people are more energized, motivated, and economically productive. Furthermore, it brings financial security, relieving families of the burden of high medical costs, enabling them to invest in education, housing, and other essentials, thus breaking the cycle of poverty. In times of crisis, a well-supported healthcare system is crucial, ensuring a prompt and effective response. Mental health is equally vital, as it contributes to emotional well-being and reduces the rates of substance abuse, violence, and crime. In essence, the Health category's impact extends beyond the individual; it underpins the strength and resilience of entire communities, fostering prosperity and social harmony.",
+      "price": 400
     },
     {
       "id": "5",
       "banner": "https://i.ibb.co/HXwrymM/Food.png",
       "title": "Food Bank Support",
       "category": "Food",
-      "category_bg": "bg-orange-200",
-      "card_bg": "bg-orange-100",
-      "text_color": "orange-500",
-      "description": "Help stock our local food bank shelves with non-perishable items to support struggling individuals and families.",
-      "price": 10
+      "category_bg": "#F8714733",
+      "card_bg": "#F8714726",
+      "text_color": "#F87147",
+      "description": "Good food is the cornerstone of a healthy and fulfilling life. Beyond simply nourishing our bodies, it shapes our overall well-being. Nutrition-rich diets support physical health, bolstering our immune systems, and reducing the risk of chronic illnesses. Moreover, good food is a source of vitality and energy, enabling us to lead active lives. Beyond the physical, it also nurtures mental health, contributing to cognitive clarity and emotional stability. Food is a unifying force, bringing communities and cultures together around shared meals. In the broader context, sustainable and responsible food choices have a positive impact on the environment, reducing our carbon footprint. In essence, good food is not just sustenance; it's a cornerstone of health, happiness, and a sustainable future.",
+      "price": 100
     },
     {
       "id": "6",
       "banner": "https://i.ibb.co/0B0QmLC/Health.png",
       "title": "Vaccination Campaign",
       "category": "Health",
-      "category_bg": "bg-blue-200",
-      "card_bg": "bg-blue-100",
-      "text_color": "blue-500",
-      "description": "Contribute to a vaccination campaign to protect vulnerable populations from preventable diseases.",
-      "price": 25
+      "category_bg": "#0052FF33",
+      "card_bg": "#0052FF26",
+      "text_color": "#0052FF",
+      "description": "Good health is the bedrock upon which thriving communities are built. It encompasses physical, mental, and social well-being, and its significance in the Health category of philanthropy cannot be overstated. A community's vitality and productivity hinge on the health of its individuals. When healthcare is accessible and robust, people are more energized, motivated, and economically productive. Furthermore, it brings financial security, relieving families of the burden of high medical costs, enabling them to invest in education, housing, and other essentials, thus breaking the cycle of poverty. In times of crisis, a well-supported healthcare system is crucial, ensuring a prompt and effective response. Mental health is equally vital, as it contributes to emotional well-being and reduces the rates of substance abuse, violence, and crime. In essence, the Health category's impact extends beyond the individual; it underpins the strength and resilience of entire communities, fostering prosperity and social harmony.",
+      "price": 250
     },
     {
       "id": "7",
       "banner": "https://i.ibb.co/QXd3DJ1/Education.png",
       "title": "Support for Students",
       "category": "Education",
-      "category_bg": "bg-red-200",
-      "card_bg": "bg-red-100",
-      "text_color": "red-500",
-      "description": "Empower students with online learning tools and resources, bridging the digital divide and enhancing access to quality education.",
-      "price": 20
+      "category_bg": "#FF444A33",
+      "card_bg": "#FF444A26",
+      "text_color": "#FF444A",
+      "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+      "price": 200
     },
     {
       "id": "8",
       "banner": "https://i.ibb.co/Hpt2w0g/Clothing.png",
       "title": "Warm Clothing Drive",
       "category": "Clothing",
-      "category_bg": "bg-lime-200",
-      "card_bg": "bg-lime-100",
-      "text_color": "lime-600",
-      "description": "Equip underprivileged children with new school outfits, boosting their confidence as they start the school year.",
-      "price": 20
+      "category_bg": "#79C23F33",
+      "card_bg": "#79C23F26",
+      "text_color": "#79C23F",
+      "description": "Clothing is far more than a mere covering for our bodies; it serves as a reflection of our identity, culture, and social standing. The importance of clothing transcends mere aesthetics; it is a means of self-expression, communication, and empowerment. Adequate clothing provides protection from the elements, ensuring our physical well-being. Moreover, it boosts our confidence and self-esteem, influencing how we perceive ourselves and how others perceive us. In many societies, clothing represents tradition and heritage, connecting generations. Additionally, it plays a pivotal role in the job market, where appropriate attire can influence career opportunities. In essence, clothing is not just a matter of style; it's a fundamental aspect of our daily lives, impacting our comfort, confidence, and cultural heritage.",
+      "price": 200
     },
     {
       "id": "9",
       "banner": "https://i.ibb.co/0B0QmLC/Health.png",
       "title": "Vaccination Campaign",
       "category": "Health",
-      "category_bg": "bg-blue-200",
-      "card_bg": "bg-blue-100",
-      "text_color": "blue-500",
-      "description": "Fund programs that provide mental health support and counseling for individuals in crisis.",
-      "price": 35
+      "category_bg": "#0052FF33",
+      "card_bg": "#0052FF26",
+      "text_color": "#0052FF",
+      "description": "Good health is the bedrock upon which thriving communities are built. It encompasses physical, mental, and social well-being, and its significance in the Health category of philanthropy cannot be overstated. A community's vitality and productivity hinge on the health of its individuals. When healthcare is accessible and robust, people are more energized, motivated, and economically productive. Furthermore, it brings financial security, relieving families of the burden of high medical costs, enabling them to invest in education, housing, and other essentials, thus breaking the cycle of poverty. In times of crisis, a well-supported healthcare system is crucial, ensuring a prompt and effective response. Mental health is equally vital, as it contributes to emotional well-being and reduces the rates of substance abuse, violence, and crime. In essence, the Health category's impact extends beyond the individual; it underpins the strength and resilience of entire communities, fostering prosperity and social harmony.",
+      "price": 350
     },
     {
       "id": "10",
       "banner": "https://i.ibb.co/HXwrymM/Food.png",
       "title": "Meals for Homeless",
       "category": "Food",
-      "category_bg": "bg-orange-200",
-      "card_bg": "bg-orange-100",
-      "text_color": "orange-500",
-      "description": "Contribute to providing warm meals and essentials to homeless individuals in our community.",
-      "price": 15
+      "category_bg": "#F8714733",
+      "card_bg": "#F8714726",
+      "text_color": "#F87147",
+      "description": "Good food is the cornerstone of a healthy and fulfilling life. Beyond simply nourishing our bodies, it shapes our overall well-being. Nutrition-rich diets support physical health, bolstering our immune systems, and reducing the risk of chronic illnesses. Moreover, good food is a source of vitality and energy, enabling us to lead active lives. Beyond the physical, it also nurtures mental health, contributing to cognitive clarity and emotional stability. Food is a unifying force, bringing communities and cultures together around shared meals. In the broader context, sustainable and responsible food choices have a positive impact on the environment, reducing our carbon footprint. In essence, good food is not just sustenance; it's a cornerstone of health, happiness, and a sustainable future.",
+      "price": 150
     },
     {
       "id": "11",
       "banner": "https://i.ibb.co/Hpt2w0g/Clothing.png",
       "title": "Job Interview Attire",
       "category": "Clothing",
-      "category_bg": "bg-lime-200",
-      "card_bg": "bg-lime-100",
-      "text_color": "lime-600",
-      "description": "Provide professional clothing for job seekers to help them make a strong impression during interviews.",
-      "price": 15
+      "category_bg": "#79C23F33",
+      "card_bg": "#79C23F26",
+      "text_color": "#79C23F",
+      "description": "Clothing is far more than a mere covering for our bodies; it serves as a reflection of our identity, culture, and social standing. The importance of clothing transcends mere aesthetics; it is a means of self-expression, communication, and empowerment. Adequate clothing provides protection from the elements, ensuring our physical well-being. Moreover, it boosts our confidence and self-esteem, influencing how we perceive ourselves and how others perceive us. In many societies, clothing represents tradition and heritage, connecting generations. Additionally, it plays a pivotal role in the job market, where appropriate attire can influence career opportunities. In essence, clothing is not just a matter of style; it's a fundamental aspect of our daily lives, impacting our comfort, confidence, and cultural heritage.",
+      "price": 150
     },
     {
       "id": "12",
       "banner": "https://i.ibb.co/QXd3DJ1/Education.png",
       "title": "Support for Students",
       "category": "Education",
-      "category_bg": "bg-red-200",
-      "card_bg": "bg-red-100",
-      "text_color": "red-500",
-      "description": "Support the expansion of our community library, promoting literacy and providing a safe space for learning for all ages.",
-      "price": 50
+      "category_bg": "#FF444A33",
+      "card_bg": "#FF444A26",
+      "text_color": "#FF444A",
+      "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+      "price": 500
     }
   ]
   

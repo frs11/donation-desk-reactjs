@@ -6,3 +6,10 @@
         background-size: cover;
         border: 1px solid white;
 }
+
+.buttonbg
+{
+    background: linear-gradient(#0000009d,#0e0d0d70);
+        background-blend-mode: overlay;
+        width: 100%;
+}
