@@ -1,4 +1,7 @@
 ## Features
 
+- Easy to use
+- Beautiful homepage layout.
+- Search by category.
 - User friendly UI.
-- Beautiful error messages.
+- Attractive confirmation messages.
