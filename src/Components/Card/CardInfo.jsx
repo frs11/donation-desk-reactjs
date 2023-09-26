@@ -1,11 +1,42 @@
 import PropTypes from 'prop-types';
+import swal from 'sweetalert';
 
 const CardInfo = ({donatedCard}) => {
-    const {title, banner, price, text_color, description} = donatedCard
+    const {id, title, banner, price, text_color, description} = donatedCard
 
 
     const buttonBackground ={
         backgroundColor : text_color
+    }
+    const handleDonateButton = () =>
+    {
+        const storedData = [];
+
+        const localStorageData = JSON.parse(localStorage.getItem('totalDonates'))
+
+        if(!localStorageData)
+        {
+            storedData.push(donatedCard)
+            localStorage.setItem('totalDonates', JSON.stringify(storedData))
+            swal("First Donate Done!!", "Thank you for donating!", "success");
+        }
+        else
+        {
+            const isExist = localStorageData.find((data) => data.id == id)
+            if(isExist)
+            {
+                swal("Already donated!!!", "Thanks for trying!", "error");    
+            }
+            else
+            {
+                storedData.push(...localStorageData, donatedCard)
+                localStorage.setItem('totalDonates', JSON.stringify(storedData))
+                swal("Successfully!!!", "Thank you for donating!", "success");
+            }
+            
+        }
+
+        
     }
 
     // console.log(donatedCard);
@@ -15,7 +46,7 @@ const CardInfo = ({donatedCard}) => {
                 <img src={banner} className='w-full' alt="" />
                 
                 <div className='absolute bottom-0 px-8 py-6 buttonbg'>
-                    <button style={buttonBackground} className={`rounded-md px-6 py-2 text-white font-medium`}>Donate ${price}</button>
+                    <button onClick={handleDonateButton} style={buttonBackground} className={`rounded-md px-6 py-2 text-white font-medium`}>Donate ${price}</button>
                 </div>
             </div>
             <div>
