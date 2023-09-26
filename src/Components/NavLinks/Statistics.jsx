@@ -1,8 +1,17 @@
+import PieChartComponent from "../PieChartComponent";
+
 
 const Statistics = () => {
+
+    const locallyStoredData = JSON.parse(localStorage.getItem('totalDonates'))
+    let totalDonatedItem 
+
+    locallyStoredData ? (totalDonatedItem = locallyStoredData.length) : (totalDonatedItem = 0)
+
     return (
         <div>
-            <h1>Statistics</h1>            
+            {/* <h1>Statistics</h1>             */}
+            <PieChartComponent totalDonatedItem = {totalDonatedItem} ></PieChartComponent>
         </div>
     );
 };
