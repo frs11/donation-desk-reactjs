@@ -7,7 +7,7 @@ import { NavLink, Outlet } from "react-router-dom";
 const Layout = () => {
 
     const [open, setOpen] = useState(false)
-  
+
     return (
       <div>
 
@@ -35,7 +35,7 @@ const Layout = () => {
                   />
                 </svg>
               </label>
-              <ul className={`menu menu-sm dropdown-content mt-3 z-[1] ${open ? "" : "hidden"} shadow bg-base-100 rounded-lg`}>
+              <ul className={` dropdown-content mt-3 p-4 z-[1] ${open ? "" : "hidden"} shadow bg-base-100 rounded-lg`}>
                   <li> <NavLink to="/" className={({ isActive, isPending }) =>
                           isPending ? "pending" : isActive ? "underline text-red-500 font-bold" : ""}>Home</NavLink> </li>
                   <li> <NavLink to="/donation" className={({ isActive, isPending }) =>
@@ -47,11 +47,11 @@ const Layout = () => {
             </div>
           </div>
           <div className="navbar-end hidden lg:flex">
-            <ul className="menu menu-horizontal px-1">
+            <ul className="flex px-1">
             <li> <NavLink to="/" className={({ isActive, isPending }) =>
                           isPending ? "pending" : isActive ? "underline text-red-500 font-bold" : ""
                       }>Home</NavLink> </li>
-                  <li> <NavLink to="/donation" className={({ isActive, isPending }) =>
+                  <li className="mx-6"> <NavLink to="/donation" className={({ isActive, isPending }) =>
                           isPending ? "pending" : isActive ? "underline text-red-500 font-bold" : ""}>Donation</NavLink> </li>
                   <li> <NavLink to="/statistics" className={({ isActive, isPending }) =>
                           isPending ? "pending" : isActive ? "underline text-red-500 font-bold" : ""}>Statistics</NavLink> </li>

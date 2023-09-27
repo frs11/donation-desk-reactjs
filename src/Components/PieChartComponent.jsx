@@ -11,6 +11,7 @@ const PieChartComponent = ({totalDonatedItem}) => {
       ];
       const options = {
         colors: ["#2AAA8A","#FF444A" ],
+        legend: {position: "bottom"}
         };
     return (
         <div className="mt-3 lg:mt-0">
