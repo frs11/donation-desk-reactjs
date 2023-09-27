@@ -30,7 +30,7 @@ const DonatedCardLayout = ({singleData}) => {
                 <h1 className='font-semibold my-1'>{title}</h1>
                 <p style={textStyle} className='font-semibold'>${price}.00</p>
                 <Link to={`/carddetails/${id}`}>
-                    <button style={buttonStyle} className='py-2 px-4npm mt-2 font-semibold rounded-md'>View Details</button>
+                    <button style={buttonStyle} className='py-2 px-4 mt-2 font-semibold rounded-md'>View Details</button>
                 </Link>
                 </div>
             </div>
