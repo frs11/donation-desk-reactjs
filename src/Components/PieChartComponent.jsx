@@ -13,13 +13,13 @@ const PieChartComponent = ({totalDonatedItem}) => {
         colors: ["#2AAA8A","#FF444A" ],
         };
     return (
-        <div>
+        <div className="mt-3 lg:mt-0">
             <Chart
                 chartType="PieChart"
                 data={data}
                 options={options}
                 width={"100%"}
-                height={"350px"}
+                height={"500px"}
             />
 
             
